@@ -10,7 +10,7 @@
     -->
 
     <!-- This is an Image CDN source-set, and it requires only one "static" image -->
-    <img srcset="./assets/logo.png?imgeng=/w_100,
+    <img srcset="./assets/logo.png?imgeng=/w_100 1x,
              ./assets/logo.png?imgeng=/w_150 1.5x,
              ./assets/logo.png?imgeng=/w_200 2x"
      src="./assets/logo.png?imgeng=/w_200" alt="Vue logo" class="example">
